@@ -1,0 +1,10 @@
+{
+    "name": "homberger/packagist-test",
+    "homepage": "https://torsten-homberger.de",
+    "license": "GPL-3.0-only",
+    "description": "Minimal Packagist Test Package",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    }
+}
